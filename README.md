@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #The AWS Mobile SDK for iOS Samples
 
 This repository contains sample apps that demonstrate various aspects of the AWS Mobile SDK for iOS. Please refer to **README.md** in each sample directory for more specific instructions.
@@ -54,3 +55,7 @@ This sample demonstrates how to set up Amazon SNS Mobile Push and record events 
 Version 1 of the AWS Mobile SDK for iOS is deprecated as of September 29, 2014. If you are building new apps, we recommend you use Version 2.
 
 To find the samples for Version 1 of the AWS Mobile SDK for iOS, select the [v1 branch](https://github.com/awslabs/aws-sdk-ios-samples/tree/v1).
+=======
+# aws-sdk-ios-samples
+was sdk iOS samples
+>>>>>>> b77fe224bf3a2aef5564c80de801b9b788d2a4e0
